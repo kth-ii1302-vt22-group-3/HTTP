@@ -1,3 +1,7 @@
+/*@brief	TCP client for sending data to a web server. Handles shutdown, timeout and limit arguments.
+ *@file		TCPClient.java
+ *@author	Jesper Jansson
+
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.net.Socket;

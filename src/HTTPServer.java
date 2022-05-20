@@ -1,3 +1,7 @@
+/*@brief	HTTP server to relay data in a HTTP GET message to an API
+ *@file		HTTPServer.java
+ *@author	Jesper Jansson
+
 import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
